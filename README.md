@@ -1,6 +1,6 @@
 # Remote Shell
 ## This repository contains a simple implementation of a reverse shell for remote command execution between a server and multiple clients. The reverse shell allows a user to remotely control client machines through a command-line interface.
-
+***You can convert to convert py to and exe => https://www.geeksforgeeks.org/convert-python-script-to-exe-file/***
 ### How this works
 ![Diagram of the reverse shell](https://github.com/Saad-ki-git/Remote-Shell/assets/93855880/aa7db193-29a5-4a25-8e5d-9e3989dd2f43)
 
